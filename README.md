@@ -14,3 +14,13 @@ Shorcuts(emmit)
 ==============================================================================================       
                          PRACTICE SET 1 COMPLETED 
 ==============================================================================================
+
+1. Text at the center, with the text-align and text-transform: capitalize.
+2. font-family for all, so i used "*{font-family: "Times New Roman"} ".
+
+![image alt](https://github.com/bhupeshsinha/apna-college-css-tutorial/blob/a003f97d6f96fb219eec355900a6a4e46e360deb/Screenshot%20(207).png)
+
+==============================================================================================       
+                         PRACTICE SET 2 COMPLETED 
+==============================================================================================
+
