@@ -24,3 +24,6 @@ Shorcuts(emmit)
                          PRACTICE SET 2 COMPLETED 
 ==============================================================================================
 
+Created "Traffic Light "
+![image alt](https://github.com/bhupeshsinha/apna-college-css-tutorial/blob/f40839a4857102fb60a9b76e7877cbaef78b60f7/traffic%20light.png)
+
