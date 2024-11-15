@@ -27,3 +27,6 @@ Shorcuts(emmit)
 Created "Traffic Light "
 ![image alt](https://github.com/bhupeshsinha/apna-college-css-tutorial/blob/f40839a4857102fb60a9b76e7877cbaef78b60f7/traffic%20light.png)
 
+Created "Amazon Navigation Bar "
+![image alt](https://github.com/bhupeshsinha/apna-college-css-tutorial/blob/c4db074d4ea41e184102bdcb28932f9a1092fd75/amazon%20nav%20bar.png)
+
