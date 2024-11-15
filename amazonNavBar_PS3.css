@@ -1,0 +1,31 @@
+/*1. Universal padding and margin = 0px : at the very beginning */
+
+*{
+    color: white;      
+     /* color of text set as white */
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar
+{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button
+{
+    background-color: #f08804;
+}
+
+#logo
+{
+    color: #f08804;
+    font-size: 25px;
+}
+
+a{
+    margin-left: 5px;
+    margin-right: 195px;
+    text-decoration: none;
+}
