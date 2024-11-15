@@ -3,5 +3,9 @@
    width: 100px;
 
    background-color: green;
-   border-radius: 50%;
+   border-radius: 50%;  
+
+   /* Since height == width == 100px and also border-radius == 50%:
+      that means we created a circle */
+      
  }
