@@ -11,28 +11,9 @@ div{
     display: inline-block;
 }
 
+
 #box1
 {
-    position: static;
-}
-
-#box2
-{
-    position: relative;
-    top: 40px;
-    left: 20px;
-}
-
-#box3
-{
-    position: sticky;
-    top: 505px;
-    left: 20px;
-}
-
-#box4
-{
-    position: fixed;
-    width: 100%;
-    top:5px;
+    background-image: url("img_1 (1).jpg");
+    background-size: cover;
 }
