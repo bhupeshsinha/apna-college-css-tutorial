@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#landscape
+{
+    height: 100px;
+    width: 100px;
+    background-image: url("landscape.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 30px;
+    top:50px;
+    color: white;
+}
