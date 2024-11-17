@@ -8,20 +8,24 @@ body{
 }
 
 div{
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 150px;
     display: inline-block;
     border: 2px solid black;
 }
 
 #container
 {
-    height: 200px;
-    width: 800px;
+    height: 600px;
+    width: 600px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: center;
     /* space-around, space-between, space-evenly */
+
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
 }
 
 #box1{
@@ -30,10 +34,12 @@ div{
 
 #box2{
     background-color: pink;
+    height: 200px;
 }
 
 #box3{
     background-color: darkkhaki;
+    height: 75px;
 }
 
 #box4{

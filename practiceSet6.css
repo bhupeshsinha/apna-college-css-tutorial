@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+li{
+    list-style-type: none;
+}
+
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: cornflowerblue;
+
+    display: flex;              /* To use flexbox: use display: flex (used in PARENT)*/
+    justify-content: center;    /*justify-content: "to keep the content at the center of the ROW" */
+    align-items: center;        /*align-items: to keep the content at the center of the COLUMN*/
+                                /*together they were used for keep the content at the center*/
+}
+
+.inner
+{
+    height: 100px;
+    width: 100px;
+    background-color: darkorchid;
+
+}
+
+/* 
+align-items Vs align-self
+=> 1. align-item: apply for container like to align the container across the cross-axis
+ and align-self apply for individual flex item.
+2. align-self has higher priority.
+
+
+ */
